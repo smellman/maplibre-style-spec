@@ -1,13 +1,1 @@
-{
-  "expression": ["==", null, ["get", "x"]],
-  "inputs": [[{}, {"properties": {}}], [{}, {"properties": {"x": 1}}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": false,
-      "isZoomConstant": true,
-      "type": "boolean"
-    },
-    "outputs": [true, false]
-  }
-}
+{"expression":["==",null,["get","x"]],"inputs":[[{},{"properties":{}}],[{},{"properties":{"x":1}}]],"expected":{"compiled":{"result":"success","isFeatureConstant":false,"isZoomConstant":true,"type":"boolean"},"outputs":[true,false]}}

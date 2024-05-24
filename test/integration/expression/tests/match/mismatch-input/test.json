@@ -1,11 +1,1 @@
-{
-  "expression": ["match", ["string", ["get", "x"]], 0, "match", "otherwise"],
-  "expected": {
-    "compiled": {
-      "result": "error",
-      "errors": [
-        {"key": "[1]", "error": "Expected number but found string instead."}
-      ]
-    }
-  }
-}
+{"expression":["match",["string",["get","x"]],0,"match","otherwise"],"expected":{"compiled":{"result":"error","errors":[{"key":"[1]","error":"Expected number but found string instead."}]}}}

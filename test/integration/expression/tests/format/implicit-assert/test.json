@@ -1,12 +1,1 @@
-{
-  "expression": ["number", ["get", "p"]],
-  "propertySpec": {"type": "formatted"},
-  "expected": {
-    "compiled": {
-      "result": "error",
-      "errors": [
-        {"key": "", "error": "Expected formatted but found number instead."}
-      ]
-    }
-  }
-}
+{"expression":["number",["get","p"]],"propertySpec":{"type":"formatted","property-type":"data-driven","expression":{"interpolated":true,"parameters":["zoom","feature"]}},"expected":{"compiled":{"result":"error","errors":[{"key":"","error":"Expected formatted but found number instead."}]}}}

@@ -1,13 +1,1 @@
-{
-  "expression": ["atan", 1],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": true,
-      "isZoomConstant": true,
-      "type": "number"
-    },
-    "outputs": [0.785398]
-  }
-}
+{"expression":["atan",1],"inputs":[[{},{}]],"expected":{"compiled":{"result":"success","isFeatureConstant":true,"isZoomConstant":true,"type":"number"},"outputs":[0.785398]}}

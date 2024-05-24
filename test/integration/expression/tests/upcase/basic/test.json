@@ -1,13 +1,1 @@
-{
-  "expression": ["upcase", "string"],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": true,
-      "isZoomConstant": true,
-      "type": "string"
-    },
-    "outputs": ["STRING"]
-  }
-}
+{"expression":["upcase","string"],"inputs":[[{},{}]],"expected":{"compiled":{"result":"success","isFeatureConstant":true,"isZoomConstant":true,"type":"string"},"outputs":["STRING"]}}

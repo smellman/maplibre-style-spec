@@ -1,14 +1,1 @@
-{
-  "expression": ["<=", null, null],
-  "expected": {
-    "compiled": {
-      "result": "error",
-      "errors": [
-        {
-          "key": "[1]",
-          "error": "\"<=\" comparisons are not supported for type 'null'."
-        }
-      ]
-    }
-  }
-}
+{"expression":["<=",null,null],"expected":{"compiled":{"result":"error","errors":[{"key":"[1]","error":"\"<=\" comparisons are not supported for type 'null'."}]}}}

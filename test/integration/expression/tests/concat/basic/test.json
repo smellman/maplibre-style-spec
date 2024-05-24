@@ -1,13 +1,1 @@
-{
-  "expression": ["concat", "a", "b", "c"],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": true,
-      "isZoomConstant": true,
-      "type": "string"
-    },
-    "outputs": ["abc"]
-  }
-}
+{"expression":["concat","a","b","c"],"inputs":[[{},{}]],"expected":{"compiled":{"result":"success","isFeatureConstant":true,"isZoomConstant":true,"type":"string"},"outputs":["abc"]}}

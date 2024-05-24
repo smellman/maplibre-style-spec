@@ -1,15 +1,1 @@
-{
-  "expression": ["literal", {}, []],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "error",
-      "errors": [
-        {
-          "key": "",
-          "error": "'literal' expression requires exactly one argument, but found 2 instead."
-        }
-      ]
-    }
-  }
-}
+{"expression":["literal",{},[]],"inputs":[[{},{}]],"expected":{"compiled":{"result":"error","errors":[{"key":"","error":"'literal' expression requires exactly one argument, but found 2 instead."}]}}}

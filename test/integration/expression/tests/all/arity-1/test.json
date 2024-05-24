@@ -1,13 +1,1 @@
-{
-  "expression": ["all", false],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": true,
-      "isZoomConstant": true,
-      "type": "boolean"
-    },
-    "outputs": [false]
-  }
-}
+{"expression":["all",false],"inputs":[[{},{}]],"expected":{"compiled":{"result":"success","isFeatureConstant":true,"isZoomConstant":true,"type":"boolean"},"outputs":[false]}}

@@ -1,14 +1,1 @@
-{
-  "expression": [],
-  "expected": {
-    "compiled": {
-      "result": "error",
-      "errors": [
-        {
-          "key": "",
-          "error": "Expected an array with at least one element. If you wanted a literal array, use [\"literal\", []]."
-        }
-      ]
-    }
-  }
-}
+{"expression":[],"expected":{"compiled":{"result":"error","errors":[{"key":"","error":"Expected an array with at least one element. If you wanted a literal array, use [\"literal\", []]."}]}}}

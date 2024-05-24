@@ -1,13 +1,1 @@
-{
-  "expression": ["e"],
-  "inputs": [[{}, {}]],
-  "expected": {
-    "compiled": {
-      "result": "success",
-      "isFeatureConstant": true,
-      "isZoomConstant": true,
-      "type": "number"
-    },
-    "outputs": [2.71828]
-  }
-}
+{"expression":["e"],"inputs":[[{},{}]],"expected":{"compiled":{"result":"success","isFeatureConstant":true,"isZoomConstant":true,"type":"number"},"outputs":[2.71828]}}
